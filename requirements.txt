@@ -1,0 +1,11 @@
+groq
+pydantic
+pdfplumber
+python-dotenv
+reportlab
+pytesseract
+pypdfium2
+pillow
+streamlit
+intuit-oauth
+requests
