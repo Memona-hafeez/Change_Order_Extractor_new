@@ -1,0 +1,84 @@
+{
+  "source_file": "sample5_draft_missing.txt",
+  "input": {
+    "ocr_used": false,
+    "mean_ocr_confidence": null
+  },
+  "fields": {
+    "project_name": {
+      "value": "Oak Ridge Library",
+      "confidence": 1.0,
+      "evidence": "Project: Oak Ridge Library",
+      "issues": []
+    },
+    "change_order_number": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    },
+    "contractor": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    },
+    "owner": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    },
+    "description_of_change": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    },
+    "original_contract_sum": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    },
+    "previous_changes_total": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    },
+    "change_amount": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    },
+    "new_contract_sum": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    },
+    "schedule_change_days": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    },
+    "signed": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    }
+  },
+  "line_items": [],
+  "document_issues": [],
+  "needs_review": []
+}
