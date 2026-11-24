@@ -1,0 +1,23 @@
+{
+  "project_name": "Brookfield Distribution Center",
+  "change_order_number": "11",
+  "date": "2026-06-14",
+  "contractor": "Keystone Contractors Inc.",
+  "owner": "Summit Ridge Partners",
+  "original_contract_sum": 1177000,
+  "previous_changes_total": null,
+  "change_amount": 39000,
+  "new_contract_sum": 1216000,
+  "schedule_change_days": 3,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Brookfield Distribution Center",
+    "change_order_number": "11",
+    "date": "June 14, 2026",
+    "contractor": "Keystone Contractors Inc.",
+    "owner": "Summit Ridge Partners",
+    "original_contract_sum": "1,177,000",
+    "change_amount": "$39,000",
+    "new_contract_sum": "1,216,000"
+  }
+}

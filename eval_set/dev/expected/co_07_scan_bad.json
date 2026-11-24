@@ -1,0 +1,23 @@
+{
+  "project_name": "Harbor View Warehouse",
+  "change_order_number": "39",
+  "date": "2026-09-16",
+  "contractor": "Keystone Contractors Inc.",
+  "owner": "City of Oak Ridge",
+  "original_contract_sum": 2180000,
+  "previous_changes_total": 25000,
+  "change_amount": -48000,
+  "new_contract_sum": 2157000,
+  "schedule_change_days": 10,
+  "signed": null,
+  "_rendered": {
+    "project_name": "Harbor View Warehouse",
+    "change_order_number": "39",
+    "date": "September 16, 2026",
+    "contractor": "Keystone Contractors Inc.",
+    "owner": "City of Oak Ridge",
+    "original_contract_sum": "$2,180,000",
+    "change_amount": "($48,000)",
+    "new_contract_sum": "$2,157,000"
+  }
+}

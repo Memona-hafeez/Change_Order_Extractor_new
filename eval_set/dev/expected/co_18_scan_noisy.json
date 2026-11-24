@@ -1,0 +1,23 @@
+{
+  "project_name": "Pinecrest Senior Living",
+  "change_order_number": "32",
+  "date": "2026-04-23",
+  "contractor": "Keystone Contractors Inc.",
+  "owner": "City of Oak Ridge",
+  "original_contract_sum": 1483000,
+  "previous_changes_total": 0,
+  "change_amount": 11750,
+  "new_contract_sum": 1494750,
+  "schedule_change_days": 0,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Pinecrest Senior Living",
+    "change_order_number": "32",
+    "date": "April 23, 2026",
+    "contractor": "Keystone Contractors Inc.",
+    "owner": "City of Oak Ridge",
+    "original_contract_sum": "$1,483,000.00",
+    "change_amount": "$11,750.00",
+    "new_contract_sum": "$1,494,750.00"
+  }
+}

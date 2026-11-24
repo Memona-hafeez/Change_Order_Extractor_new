@@ -1,0 +1,23 @@
+{
+  "project_name": "Pinecrest Senior Living",
+  "change_order_number": "15",
+  "date": "2026-04-15",
+  "contractor": "Brightline Construction",
+  "owner": "City of Oak Ridge",
+  "original_contract_sum": 911000,
+  "previous_changes_total": null,
+  "change_amount": 42000,
+  "new_contract_sum": 953000,
+  "schedule_change_days": 13,
+  "signed": true,
+  "_rendered": {
+    "project_name": "Pinecrest Senior Living",
+    "change_order_number": "15",
+    "date": "2026-04-15",
+    "contractor": "Brightline Construction",
+    "owner": "City of Oak Ridge",
+    "original_contract_sum": "911,000",
+    "change_amount": "$42,000",
+    "new_contract_sum": "953,000"
+  }
+}

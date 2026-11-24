@@ -1,0 +1,23 @@
+{
+  "project_name": "Willow Creek Elementary Addition",
+  "change_order_number": "6",
+  "date": "2026-08-27",
+  "contractor": "Steelman Contractors LLC",
+  "owner": "Willow Creek USD",
+  "original_contract_sum": 3814000,
+  "previous_changes_total": null,
+  "change_amount": 29500,
+  "new_contract_sum": 3848500,
+  "schedule_change_days": 12,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Willow Creek Elementary Addition",
+    "change_order_number": "6",
+    "date": "August 27, 2026",
+    "contractor": "Steelman Contractors LLC",
+    "owner": "Willow Creek USD",
+    "original_contract_sum": "3,814,000",
+    "change_amount": "$29,500",
+    "new_contract_sum": "3,848,500"
+  }
+}

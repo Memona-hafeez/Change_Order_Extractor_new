@@ -1,0 +1,23 @@
+{
+  "project_name": "Summit Ridge Office Park",
+  "change_order_number": "29",
+  "date": "2026-12-19",
+  "contractor": "Redwood General Contracting",
+  "owner": "Eastside Transit Authority",
+  "original_contract_sum": 3102000,
+  "previous_changes_total": null,
+  "change_amount": -35750,
+  "new_contract_sum": 3066250,
+  "schedule_change_days": 15,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Summit Ridge Office Park",
+    "change_order_number": "29",
+    "date": "2026-12-19",
+    "contractor": "Redwood General Contracting",
+    "owner": "Eastside Transit Authority",
+    "original_contract_sum": "$3,102,000.00",
+    "change_amount": "($35,750.00)",
+    "new_contract_sum": "$3,066,250.00"
+  }
+}

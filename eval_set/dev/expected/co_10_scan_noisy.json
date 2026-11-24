@@ -1,0 +1,23 @@
+{
+  "project_name": "Riverside Medical Center - Phase 2",
+  "change_order_number": "33",
+  "date": "2026-02-14",
+  "contractor": "Brightline Construction",
+  "owner": "Cedar Point Holdings",
+  "original_contract_sum": 895000,
+  "previous_changes_total": 0,
+  "change_amount": -3250,
+  "new_contract_sum": 891750,
+  "schedule_change_days": 9,
+  "signed": true,
+  "_rendered": {
+    "project_name": "Riverside Medical Center - Phase 2",
+    "change_order_number": "33",
+    "date": "2026-02-14",
+    "contractor": "Brightline Construction",
+    "owner": "Cedar Point Holdings",
+    "original_contract_sum": "$895,000",
+    "change_amount": "($3,250)",
+    "new_contract_sum": "$891,750"
+  }
+}

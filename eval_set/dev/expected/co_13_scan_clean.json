@@ -1,0 +1,23 @@
+{
+  "project_name": "Northgate Fire Station 4",
+  "change_order_number": "36",
+  "date": "2026-01-25",
+  "contractor": "Granite State Builders",
+  "owner": "City of Oak Ridge",
+  "original_contract_sum": 2064000,
+  "previous_changes_total": 67000,
+  "change_amount": 27500,
+  "new_contract_sum": 2158500,
+  "schedule_change_days": 7,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Northgate Fire Station 4",
+    "change_order_number": "36",
+    "date": "January 25, 2026",
+    "contractor": "Granite State Builders",
+    "owner": "City of Oak Ridge",
+    "original_contract_sum": "$2,064,000",
+    "change_amount": "$27,500",
+    "new_contract_sum": "$2,158,500"
+  }
+}

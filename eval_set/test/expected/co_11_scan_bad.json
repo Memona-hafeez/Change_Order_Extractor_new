@@ -1,0 +1,23 @@
+{
+  "project_name": "Willow Creek Elementary Addition",
+  "change_order_number": "28",
+  "date": "2026-07-19",
+  "contractor": "Redwood General Contracting",
+  "owner": "Northgate Fire District",
+  "original_contract_sum": 2608000,
+  "previous_changes_total": null,
+  "change_amount": 38500,
+  "new_contract_sum": 2646500,
+  "schedule_change_days": 9,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Willow Creek Elementary Addition",
+    "change_order_number": "28",
+    "date": "19 Jul 2026",
+    "contractor": "Redwood General Contracting",
+    "owner": "Northgate Fire District",
+    "original_contract_sum": "2,608,000",
+    "change_amount": "$38,500",
+    "new_contract_sum": "2,646,500"
+  }
+}

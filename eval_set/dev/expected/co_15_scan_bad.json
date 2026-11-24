@@ -1,0 +1,23 @@
+{
+  "project_name": "Pinecrest Senior Living",
+  "change_order_number": "21",
+  "date": "2026-01-15",
+  "contractor": "Keystone Contractors Inc.",
+  "owner": "Pinecrest Care Group",
+  "original_contract_sum": 3165000,
+  "previous_changes_total": 35000,
+  "change_amount": -38250,
+  "new_contract_sum": 3161750,
+  "schedule_change_days": 0,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Pinecrest Senior Living",
+    "change_order_number": "21",
+    "date": "January 15, 2026",
+    "contractor": "Keystone Contractors Inc.",
+    "owner": "Pinecrest Care Group",
+    "original_contract_sum": "$3,165,000.00",
+    "change_amount": "($38,250.00)",
+    "new_contract_sum": "$3,161,750.00"
+  }
+}

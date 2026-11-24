@@ -1,0 +1,23 @@
+{
+  "project_name": "Cedar Point Apartments",
+  "change_order_number": "21",
+  "date": "2026-07-15",
+  "contractor": "Lone Oak Builders",
+  "owner": "Cedar Point Holdings",
+  "original_contract_sum": 3703000,
+  "previous_changes_total": null,
+  "change_amount": 49250,
+  "new_contract_sum": 3752250,
+  "schedule_change_days": 8,
+  "signed": null,
+  "_rendered": {
+    "project_name": "Cedar Point Apartments",
+    "change_order_number": "21",
+    "date": "15 Jul 2026",
+    "contractor": "Lone Oak Builders",
+    "owner": "Cedar Point Holdings",
+    "original_contract_sum": "$3,703,000.00",
+    "change_amount": "$49,250.00",
+    "new_contract_sum": "$3,752,250.00"
+  }
+}

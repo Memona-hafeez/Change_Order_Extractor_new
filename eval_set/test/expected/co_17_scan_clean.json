@@ -1,0 +1,23 @@
+{
+  "project_name": "Willow Creek Elementary Addition",
+  "change_order_number": "36",
+  "date": "2026-09-22",
+  "contractor": "Apex Builders Inc.",
+  "owner": "Summit Ridge Partners",
+  "original_contract_sum": 1486000,
+  "previous_changes_total": null,
+  "change_amount": 17500,
+  "new_contract_sum": 1524500,
+  "schedule_change_days": 7,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Willow Creek Elementary Addition",
+    "change_order_number": "36",
+    "date": "September 22, 2026",
+    "contractor": "Apex Builders Inc.",
+    "owner": "Summit Ridge Partners",
+    "original_contract_sum": "1,486,000",
+    "change_amount": "$17,500",
+    "new_contract_sum": "1,524,500"
+  }
+}

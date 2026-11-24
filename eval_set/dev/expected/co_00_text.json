@@ -1,0 +1,23 @@
+{
+  "project_name": "Brookfield Distribution Center",
+  "change_order_number": "14",
+  "date": "2026-02-15",
+  "contractor": "Brightline Construction",
+  "owner": "Riverside Health Partners LLC",
+  "original_contract_sum": 3019000,
+  "previous_changes_total": 0,
+  "change_amount": 17500,
+  "new_contract_sum": 3036500,
+  "schedule_change_days": 0,
+  "signed": true,
+  "_rendered": {
+    "project_name": "Brookfield Distribution Center",
+    "change_order_number": "14",
+    "date": "15 Feb 2026",
+    "contractor": "Brightline Construction",
+    "owner": "Riverside Health Partners LLC",
+    "original_contract_sum": "$3,019,000.00",
+    "change_amount": "$17,500.00",
+    "new_contract_sum": "$3,036,500.00"
+  }
+}

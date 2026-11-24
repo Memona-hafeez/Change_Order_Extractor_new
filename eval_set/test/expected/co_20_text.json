@@ -1,0 +1,23 @@
+{
+  "project_name": "Eastside Transit Hub",
+  "change_order_number": "10",
+  "date": "2026-04-16",
+  "contractor": "Lone Oak Builders",
+  "owner": "Northgate Fire District",
+  "original_contract_sum": 922000,
+  "previous_changes_total": null,
+  "change_amount": 4500,
+  "new_contract_sum": 936500,
+  "schedule_change_days": 8,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Eastside Transit Hub",
+    "change_order_number": "10",
+    "date": "April 16, 2026",
+    "contractor": "Lone Oak Builders",
+    "owner": "Northgate Fire District",
+    "original_contract_sum": "922,000",
+    "change_amount": "$4,500",
+    "new_contract_sum": "936,500"
+  }
+}

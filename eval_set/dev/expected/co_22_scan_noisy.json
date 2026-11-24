@@ -1,0 +1,23 @@
+{
+  "project_name": "Eastside Transit Hub",
+  "change_order_number": "33",
+  "date": "2026-04-25",
+  "contractor": "Redwood General Contracting",
+  "owner": "City of Oak Ridge",
+  "original_contract_sum": 2285000,
+  "previous_changes_total": 49000,
+  "change_amount": 16500,
+  "new_contract_sum": 2350500,
+  "schedule_change_days": 0,
+  "signed": true,
+  "_rendered": {
+    "project_name": "Eastside Transit Hub",
+    "change_order_number": "33",
+    "date": "April 25, 2026",
+    "contractor": "Redwood General Contracting",
+    "owner": "City of Oak Ridge",
+    "original_contract_sum": "$2,285,000",
+    "change_amount": "$16,500",
+    "new_contract_sum": "$2,350,500"
+  }
+}

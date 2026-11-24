@@ -1,0 +1,23 @@
+{
+  "project_name": "Cedar Point Apartments",
+  "change_order_number": "35",
+  "date": "2026-02-13",
+  "contractor": "Brightline Construction",
+  "owner": "Maple Dev Group",
+  "original_contract_sum": 1377000,
+  "previous_changes_total": 38000,
+  "change_amount": -43250,
+  "new_contract_sum": 1371750,
+  "schedule_change_days": 0,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Cedar Point Apartments",
+    "change_order_number": "35",
+    "date": "13 Feb 2026",
+    "contractor": "Brightline Construction",
+    "owner": "Maple Dev Group",
+    "original_contract_sum": "$1,377,000",
+    "change_amount": "($43,250)",
+    "new_contract_sum": "$1,371,750"
+  }
+}

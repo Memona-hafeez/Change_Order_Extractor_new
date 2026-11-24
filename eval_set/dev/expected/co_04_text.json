@@ -1,0 +1,23 @@
+{
+  "project_name": "Oak Ridge Public Library",
+  "change_order_number": "14",
+  "date": "2026-02-19",
+  "contractor": "Redwood General Contracting",
+  "owner": "Pinecrest Care Group",
+  "original_contract_sum": 1299000,
+  "previous_changes_total": 0,
+  "change_amount": 4000,
+  "new_contract_sum": 1303000,
+  "schedule_change_days": 14,
+  "signed": null,
+  "_rendered": {
+    "project_name": "Oak Ridge Public Library",
+    "change_order_number": "14",
+    "date": "2026-02-19",
+    "contractor": "Redwood General Contracting",
+    "owner": "Pinecrest Care Group",
+    "original_contract_sum": "$1,299,000",
+    "change_amount": "$4,000",
+    "new_contract_sum": "$1,303,000"
+  }
+}

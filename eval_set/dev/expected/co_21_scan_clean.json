@@ -1,0 +1,23 @@
+{
+  "project_name": "Eastside Transit Hub",
+  "change_order_number": "3",
+  "date": "2026-12-20",
+  "contractor": "Granite State Builders",
+  "owner": "Maple Dev Group",
+  "original_contract_sum": 2088000,
+  "previous_changes_total": 0,
+  "change_amount": 23250,
+  "new_contract_sum": 2111250,
+  "schedule_change_days": 15,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Eastside Transit Hub",
+    "change_order_number": "3",
+    "date": "December 20, 2026",
+    "contractor": "Granite State Builders",
+    "owner": "Maple Dev Group",
+    "original_contract_sum": "$2,088,000.00",
+    "change_amount": "$23,250.00",
+    "new_contract_sum": "$2,111,250.00"
+  }
+}

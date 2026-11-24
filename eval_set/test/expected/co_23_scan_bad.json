@@ -1,0 +1,23 @@
+{
+  "project_name": "Summit Ridge Office Park",
+  "change_order_number": "3",
+  "date": "2026-02-25",
+  "contractor": "Ironwood Construction Company",
+  "owner": "Lakeside School District",
+  "original_contract_sum": 1131000,
+  "previous_changes_total": null,
+  "change_amount": -40000,
+  "new_contract_sum": 1170000,
+  "schedule_change_days": -12,
+  "signed": null,
+  "_rendered": {
+    "project_name": "Summit Ridge Office Park",
+    "change_order_number": "3",
+    "date": "2026-02-25",
+    "contractor": "Ironwood Construction Company",
+    "owner": "Lakeside School District",
+    "original_contract_sum": "1,131,000",
+    "change_amount": "($40,000)",
+    "new_contract_sum": "1,170,000"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "project_name": "Northgate Fire Station 4",
+  "change_order_number": "35",
+  "date": "2026-07-27",
+  "contractor": "Brightline Construction",
+  "owner": "Riverside Health Partners LLC",
+  "original_contract_sum": 3495000,
+  "previous_changes_total": 0,
+  "change_amount": -12000,
+  "new_contract_sum": 3483000,
+  "schedule_change_days": 15,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Northgate Fire Station 4",
+    "change_order_number": "35",
+    "date": "27 Jul 2026",
+    "contractor": "Brightline Construction",
+    "owner": "Riverside Health Partners LLC",
+    "original_contract_sum": "$3,495,000.00",
+    "change_amount": "($12,000.00)",
+    "new_contract_sum": "$3,483,000.00"
+  }
+}

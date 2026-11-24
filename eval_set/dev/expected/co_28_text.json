@@ -1,0 +1,23 @@
+{
+  "project_name": "Willow Creek Elementary Addition",
+  "change_order_number": "11",
+  "date": "2026-10-26",
+  "contractor": "Blue Harbor Construction",
+  "owner": "Summit Ridge Partners",
+  "original_contract_sum": 1420000,
+  "previous_changes_total": 20000,
+  "change_amount": -31500,
+  "new_contract_sum": 1408500,
+  "schedule_change_days": 19,
+  "signed": null,
+  "_rendered": {
+    "project_name": "Willow Creek Elementary Addition",
+    "change_order_number": "11",
+    "date": "2026-10-26",
+    "contractor": "Blue Harbor Construction",
+    "owner": "Summit Ridge Partners",
+    "original_contract_sum": "$1,420,000",
+    "change_amount": "($31,500)",
+    "new_contract_sum": "$1,408,500"
+  }
+}

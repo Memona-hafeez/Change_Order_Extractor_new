@@ -1,0 +1,23 @@
+{
+  "project_name": "Lakeside School Gym Renovation",
+  "change_order_number": "18",
+  "date": "2026-04-19",
+  "contractor": "Steelman Contractors LLC",
+  "owner": "Northgate Fire District",
+  "original_contract_sum": 3046000,
+  "previous_changes_total": 0,
+  "change_amount": 23500,
+  "new_contract_sum": 3069500,
+  "schedule_change_days": 5,
+  "signed": true,
+  "_rendered": {
+    "project_name": "Lakeside School Gym Renovation",
+    "change_order_number": "18",
+    "date": "April 19, 2026",
+    "contractor": "Steelman Contractors LLC",
+    "owner": "Northgate Fire District",
+    "original_contract_sum": "$3,046,000.00",
+    "change_amount": "$23,500.00",
+    "new_contract_sum": "$3,069,500.00"
+  }
+}

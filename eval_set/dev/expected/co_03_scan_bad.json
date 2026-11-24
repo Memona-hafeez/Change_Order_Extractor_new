@@ -1,0 +1,23 @@
+{
+  "project_name": "Eastside Transit Hub",
+  "change_order_number": "11",
+  "date": "2026-11-15",
+  "contractor": "Tri-County Builders",
+  "owner": "Summit Ridge Partners",
+  "original_contract_sum": 1894000,
+  "previous_changes_total": 25000,
+  "change_amount": 44750,
+  "new_contract_sum": 1963750,
+  "schedule_change_days": 0,
+  "signed": true,
+  "_rendered": {
+    "project_name": "Eastside Transit Hub",
+    "change_order_number": "11",
+    "date": "2026-11-15",
+    "contractor": "Tri-County Builders",
+    "owner": "Summit Ridge Partners",
+    "original_contract_sum": "$1,894,000.00",
+    "change_amount": "$44,750.00",
+    "new_contract_sum": "$1,963,750.00"
+  }
+}

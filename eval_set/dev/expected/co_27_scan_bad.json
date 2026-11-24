@@ -1,0 +1,23 @@
+{
+  "project_name": "Lakeside School Gym Renovation",
+  "change_order_number": "25",
+  "date": "2026-08-15",
+  "contractor": "Tri-County Builders",
+  "owner": "Pinecrest Care Group",
+  "original_contract_sum": 1362000,
+  "previous_changes_total": 0,
+  "change_amount": 11250,
+  "new_contract_sum": 1373250,
+  "schedule_change_days": 0,
+  "signed": false,
+  "_rendered": {
+    "project_name": "Lakeside School Gym Renovation",
+    "change_order_number": "25",
+    "date": "August 15, 2026",
+    "contractor": "Tri-County Builders",
+    "owner": "Pinecrest Care Group",
+    "original_contract_sum": "$1,362,000.00",
+    "change_amount": "$11,250.00",
+    "new_contract_sum": "$1,373,250.00"
+  }
+}

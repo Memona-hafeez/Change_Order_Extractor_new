@@ -1,0 +1,23 @@
+{
+  "project_name": "Northgate Fire Station 4",
+  "change_order_number": "3",
+  "date": "2026-02-24",
+  "contractor": "Ironwood Construction Company",
+  "owner": "Pinecrest Care Group",
+  "original_contract_sum": 1538000,
+  "previous_changes_total": 0,
+  "change_amount": 23500,
+  "new_contract_sum": 1561500,
+  "schedule_change_days": 0,
+  "signed": null,
+  "_rendered": {
+    "project_name": "Northgate Fire Station 4",
+    "change_order_number": "3",
+    "date": "24 Feb 2026",
+    "contractor": "Ironwood Construction Company",
+    "owner": "Pinecrest Care Group",
+    "original_contract_sum": "$1,538,000",
+    "change_amount": "$23,500",
+    "new_contract_sum": "$1,561,500"
+  }
+}
