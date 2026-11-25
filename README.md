@@ -20,7 +20,6 @@ PDF / scan / text -> OCR if needed -> LLM extraction (x2) -> validation -> confi
 > **Status.** Extraction, OCR, review/approval, tests and the app are working. QuickBooks login is verified against a sandbox
 > company; sending Estimates is implemented and unit-tested with a fake HTTP layer, and is being verified end to end.
 > The full LLM accuracy evaluation on the scanned set has not been run yet. See [Limitations](#limitations).
-> A written walk-through of the design is in [REPORT.md](REPORT.md).
 
 ## Features
 
